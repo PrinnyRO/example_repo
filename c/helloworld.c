@@ -1,3 +1,5 @@
+/* Hello World example in C language */
+
 #include <stdio.h>
 
 int main() {
